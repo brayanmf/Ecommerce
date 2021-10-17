@@ -1,0 +1,4 @@
+adminlte
+1-limpias todo djando el index,build,dist,docs,pages,pluging
+2.de examples traes login,y haces dtb con php
+3.das funcionalidad al panel con get?php para class

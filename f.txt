@@ -1,0 +1,25 @@
+public:TEST-32c647e8-9b41-4f29-98aa-2912aa80bd65 original
+acces token:TEST-7441308930172929-030103-5d8edc7d1b5706e0d860000d4a75f0b0-722085222
+
+
+1
+TEST-c776db17-ec03-4402-8fec-dd3026df7c23             public
+TEST-355304604294042-071504-c5b0c1c9564f6924ef3f75e02b6566e3-791522537  acces
+
+1vendedor
+{
+    "id": 791522537,
+    "nickname": "TESTHSVBGJTZ",
+    "password": "qatest2074",
+    "site_status": "active",
+    "email": "test_user_23997679@testuser.com"
+}
+
+comprador
+{
+    "id": 791522639,
+    "nickname": "TETE8912475",
+    "password": "qatest3757",
+    "site_status": "active",
+    "email": "test_user_39448258@testuser.com"
+}
